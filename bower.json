@@ -1,0 +1,26 @@
+{
+  "name": "sacdl-project",
+  "homepage": "https://github.com/chenpi12311/sacdl-project",
+  "authors": [
+    "chenzhiping <a172497698@qq.com>"
+  ],
+  "description": "加密货币开发语言统计分析",
+  "main": "index.js",
+  "keywords": [
+    "d3js",
+    "bitcoin",
+    "nodejs"
+  ],
+  "license": "MIT",
+  "private": true,
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "d3": "^5.7.0"
+  }
+}
